@@ -1,0 +1,15 @@
+C:\Users\ARTYt\OneDrive\Рабочий стол\универ\oop\Lab3V3\Lab3V3\bin\Debug\net6.0\Lab3V3.exe
+C:\Users\ARTYt\OneDrive\Рабочий стол\универ\oop\Lab3V3\Lab3V3\bin\Debug\net6.0\Lab3V3.deps.json
+C:\Users\ARTYt\OneDrive\Рабочий стол\универ\oop\Lab3V3\Lab3V3\bin\Debug\net6.0\Lab3V3.runtimeconfig.json
+C:\Users\ARTYt\OneDrive\Рабочий стол\универ\oop\Lab3V3\Lab3V3\bin\Debug\net6.0\Lab3V3.dll
+C:\Users\ARTYt\OneDrive\Рабочий стол\универ\oop\Lab3V3\Lab3V3\bin\Debug\net6.0\Lab3V3.pdb
+C:\Users\ARTYt\OneDrive\Рабочий стол\универ\oop\Lab3V3\Lab3V3\obj\Debug\net6.0\Lab3V3.csproj.AssemblyReference.cache
+C:\Users\ARTYt\OneDrive\Рабочий стол\универ\oop\Lab3V3\Lab3V3\obj\Debug\net6.0\Lab3V3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARTYt\OneDrive\Рабочий стол\универ\oop\Lab3V3\Lab3V3\obj\Debug\net6.0\Lab3V3.AssemblyInfoInputs.cache
+C:\Users\ARTYt\OneDrive\Рабочий стол\универ\oop\Lab3V3\Lab3V3\obj\Debug\net6.0\Lab3V3.AssemblyInfo.cs
+C:\Users\ARTYt\OneDrive\Рабочий стол\универ\oop\Lab3V3\Lab3V3\obj\Debug\net6.0\Lab3V3.csproj.CoreCompileInputs.cache
+C:\Users\ARTYt\OneDrive\Рабочий стол\универ\oop\Lab3V3\Lab3V3\obj\Debug\net6.0\Lab3V3.dll
+C:\Users\ARTYt\OneDrive\Рабочий стол\универ\oop\Lab3V3\Lab3V3\obj\Debug\net6.0\refint\Lab3V3.dll
+C:\Users\ARTYt\OneDrive\Рабочий стол\универ\oop\Lab3V3\Lab3V3\obj\Debug\net6.0\Lab3V3.pdb
+C:\Users\ARTYt\OneDrive\Рабочий стол\универ\oop\Lab3V3\Lab3V3\obj\Debug\net6.0\Lab3V3.genruntimeconfig.cache
+C:\Users\ARTYt\OneDrive\Рабочий стол\универ\oop\Lab3V3\Lab3V3\obj\Debug\net6.0\ref\Lab3V3.dll
